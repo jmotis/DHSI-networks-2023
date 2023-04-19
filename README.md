@@ -2,7 +2,7 @@
 DHSI Network Analysis Course 2023
 Course content for the 2023 DHSI course: Foundations of Network Analysis, which will be held online from June 12-16, 2023.
 
-Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13) [Mastodon](https://historians.social/@jmotis)
+Jessica Otis | jmotis13@gmail.com | [Twitter](https://twitter.com/jotis13) | [Mastodon](https://historians.social/@jmotis)
 
 ## Class Description
 
