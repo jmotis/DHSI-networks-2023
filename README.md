@@ -36,19 +36,18 @@ If possible, please install Gephi before this course begins.  You can find the f
 1. Varieties of Networks (async: video)
 2. Breakout Exercise: Airline Networks (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
 3. Structuring Data for Networks (sync: Zoom)
-4. Visualizing Networks (async: video)
   
-  ## Day 3: Quantitatively Analyzing Networks
-  
-1. Networks Over Time and Space (async: video)
-2. Network Metrics (async: video)
+  ## Day 3: Visualizing Networks
+1. Visualizing Networks (async: video)
+2. Networks Over Time and Space (async: video)
 3. Breakout Exercise: the [Diary of Samuel Pepys](https://www.pepysdiary.com/diary/) (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
   
-  ## Day 4: Individual Projects
+  ## Day 4: Quantitatively Analyzing Networks
   
-1. Additional Network Tools (async video)
-2. Students work on individual projects, with instructor support (async Slack and sync Zoom as needed)
+1. Network Metrics (async: video)
+2. Breakout Exercise: the [Diary of Samuel Pepys](https://www.pepysdiary.com/diary/), cont. (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
   
   ## Day 5: Race to the Finish
   
-1. Students work on individual projects, with instructor support (async Slack and sync Zoom as needed)
+1. Additional Network Tools (async video)
+2. Students work on individual projects, with instructor support (async Slack and sync Zoom as needed)
